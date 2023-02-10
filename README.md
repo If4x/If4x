@@ -4,7 +4,7 @@
 Well, I don't know that exactly...
 
 - 🌱 I’m currently learning:
-HTML & CSS
+Python
 
 <!---
 If4x/If4x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
