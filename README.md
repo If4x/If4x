@@ -1,5 +1,5 @@
 Hi,
-I'm If4x. I'm a self teached student developer for C++, Python, HTML, CSS, JS and SQL.
+I'm If4x. I'm a self teached student developer for C++, Python, PHP, HTML, CSS, JS and SQL.
 
 Over the past 5 years I spent my time exploring more and more and therefor teaching myself new things everyday. I search for new challenges as soon as I achieved a previous one to never stop learning. Where is my journey going nex? - I have no idea! But what I know is that is going to be fun!
 
