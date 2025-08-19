@@ -1,6 +1,12 @@
-Hi,
-I'm If4x. I'm a self taught student developer for C++ (microcontrollers), Python, PHP, HTML, CSS, JS and SQL.
+Nice to see you! 👋🏼
 
-Over the past 9 years I've spent my time exploring more and more and therefore teaching myself new things everyday. I am searching for new challenges, as soon as I achieved a previous one, to never stop learning. Where is this journey going to take me next? - I have no idea about that but it will be interesting for sure!
+My name is Imanuel. I am a self taught student developer and have spent the last 10 xears teaching myself on a project oriented basis some of whcih you can find on my GitHub.
 
-I am starting projects based on own demands or initiative but also inspiration by others. On my github you can find some of those projects.
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=If4x&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=If4x&theme=dark&layout=compact&hide_border=true" />
+</p>
+
+
+
+
