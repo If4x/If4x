@@ -1,4 +1,4 @@
-Nice to see you! 👋🏼
+# Nice to see you! 👋🏼
 
 My name is Imanuel. I am a self taught student developer and have spent the last 10 xears teaching myself on a project oriented basis some of whcih you can find on my GitHub.
 
